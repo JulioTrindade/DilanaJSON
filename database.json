@@ -18,14 +18,5 @@
             "web_site": "20180046030",
             "picture": "dilana.JPEG"
         }
-        {
-            "id": 3,
-            "name": "Vinicius de Almeida Silva",
-            "email": "vinicius456as@hotmail.com",
-            "phone": "(84)996751164",
-            "description": "To com fome",
-            "web_site": "20180115924",
-            "picture": "img/vinicius.JPEG"
-        }
     ]
 }
