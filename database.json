@@ -1,0 +1,22 @@
+{
+    "bands": [
+        {
+            "id": 1,
+            "name": "Tesseract",
+            "email": "tesseract@gmail.com",
+            "phone": "99669-9966",
+            "description": "TesseracT has arrived at the highly coveted destination of true creative freedom through bold artistic risk-taking, which has resulted in a loyal audience who are not only comfortable with being challenged by each successive release, but demand to be. A new TesseracT recording is a gift to unwrap, a puzzle to solve, an adventure that beckons.",
+            "web_site": "http://tesseractband.co.uk/",
+            "picture": "http://www.oneokrock.com/wp-content/uploads/2016/05/7c3a5f0fa95101d2d2923e447e1b9abf.jpg"
+        },
+        {
+            "id": 2,
+            "name": "ONE OK ROCK",
+            "email": "oneokrock@gmail.com",
+            "phone": "84848-9989",
+            "description": "ONE OK ROCK is a Japanese rock band formed in 2005 and is represented by Amuse, Inc. It performs approximately 100 live concerts every year.",
+            "web_site": "http://www.oneokrock.com/",
+            "picture": "http://www.oneokrock.com/wp-content/uploads/2016/05/7c3a5f0fa95101d2d2923e447e1b9abf.jpg"
+        }
+    ]
+}
