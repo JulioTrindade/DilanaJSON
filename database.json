@@ -2,21 +2,30 @@
     "bands": [
         {
             "id": 1,
-            "name": "Tesseract",
-            "email": "tesseract@gmail.com",
-            "phone": "99669-9966",
+            "name": "Julio Cesar Trindade de Azevedo",
+            "email": "julio.trindade92@gmail.com",
+            "phone": "(84)988332732",
             "description": "oi",
-            "web_site": "http://tesseractband.co.uk/",
+            "web_site": "20180049810",
             "picture": "img/julio.jpg"
         },
         {
             "id": 2,
-            "name": "ONE OK ROCK",
-            "email": "oneokrock@gmail.com",
-            "phone": "84848-9989",
-            "description": "ONE OK ROCK is a Japanese rock band formed in 2005 and is represented by Amuse, Inc. It performs approximately 100 live concerts every year.",
-            "web_site": "http://www.oneokrock.com/",
-            "picture": "http://www.oneokrock.com/wp-content/uploads/2016/05/7c3a5f0fa95101d2d2923e447e1b9abf.jpg"
+            "name": "Dilana dos Santos Guimarães",
+            "email": "diilanasantos22@gmail.com",
+            "phone": "(84)998983242",
+            "description": "Braba",
+            "web_site": "20180046030",
+            "picture": "dilana.JPEG"
+        }
+        {
+            "id": 3,
+            "name": "Vinicius de Almeida Silva",
+            "email": "vinicius456as@hotmail.com",
+            "phone": "(84)996751164",
+            "description": "To com fome",
+            "web_site": "20180115924",
+            "picture": "img/vinicius.JPEG"
         }
     ]
 }
