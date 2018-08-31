@@ -2,8 +2,9 @@
 
 $.getJSON("database.json", function(data) {
   var bands = data.bands;
-  var saida;
+  var saida="";
   for (i = 0; i < bands.length; i++) {
+    if(bands[i].ativo == true){
     saida += '<table>';
       saida += '<tr>';
         saida += '<td><div class="row">';
@@ -25,4 +26,5 @@ $.getJSON("database.json", function(data) {
   }
 
   document.getElementById('tela').innerHTML = saida;
+  };
 });

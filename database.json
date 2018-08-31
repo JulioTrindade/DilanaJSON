@@ -8,7 +8,7 @@
             "CPF": "081.736.414-55",
             "matricula": "20180049810",
             "foto": "img/julio.jpg",
-            "ativo": true,
+            "ativo": false,
             "sala": "produção"
         },
         {
@@ -43,6 +43,17 @@
             "foto": "img/victoria.JPEG",
             "ativo": true,
             "sala": "produção"
+        },
+        {
+            "id": 5,
+            "nome": "João Arthur da Cruz Nunes",
+            "email": "j.ac.n@hotmail.com",
+            "telefone": "(84)992187227",
+            "CPF": "086.357.154-97",
+            "matricula": "20170155971",
+            "foto": "img/padrao.PNG",
+            "ativo": true,
+            "sala": "mecanica"
         }
     ]
 }
