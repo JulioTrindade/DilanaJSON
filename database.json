@@ -2,39 +2,39 @@
     "bands": [
         {
             "id": 1,
-            "name": "Julio Cesar Trindade de Azevedo",
+            "nome": "Julio Cesar Trindade de Azevedo",
             "email": "julio.trindade92@gmail.com",
-            "phone": "(84)988332732",
-            "description": "calado",
-            "web_site": "20180049810",
-            "picture": "img/julio.jpg"
+            "telefone": "(84)988332732",
+            "CPF": "081.736.414-55",
+            "matricula": "20180049810",
+            "foto": "img/julio.jpg"
         },
         {
             "id": 2,
-            "name": "Dilana dos Santos Guimarães",
+            "nome": "Dilana dos Santos Guimarães",
             "email": "diilanasantos22@gmail.com",
-            "phone": "(84)998983242",
-            "description": "Braba",
-            "web_site": "20180046030",
-            "picture": "img/dilana.JPEG"
+            "telefone": "(84)998983242",
+            "CPF": "099.394.624-09",
+            "matricula": "20180046030",
+            "foto": "img/dilana.JPEG"
         },
         {
             "id": 3,
-            "name": "Vinicius de Almeida Silva",
+            "nome": "Vinicius de Almeida Silva",
             "email": "vinicius456as@hotmail.com",
-            "phone": "(84)996751164",
-            "description": "To com fome",
-            "web_site": "20180115924",
-            "picture": "img/vinicius.JPEG"
+            "telefone": "(84)996751164",
+            "CPF": "096.232.684-40",
+            "matricula": "20180115924",
+            "foto": "img/vinicius.JPEG"
         },
         {
             "id": 4,
-            "name": "Victoria Silva de Araújo",
+            "nome": "Victoria Silva de Araújo",
             "email": "victoria.araujo_@hotmail.com",
-            "phone": "(84)996375383",
-            "description": "Traquilidade",
-            "web_site": "20182454653265",
-            "picture": "img/victoria.JPEG"
+            "telefone": "(84)996375383",
+            "CPF": "115.290.654-29",
+            "matricula": "20182454653265",
+            "foto": "img/victoria.JPEG"
         }
     ]
 }
