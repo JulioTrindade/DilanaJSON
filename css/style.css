@@ -2,8 +2,9 @@ img{
     width: 150px;
     height: 150px;
 }
-.col-lg-4{
-    display: inline;
-    border: solid 5px;
-    width: 100%;
+tr, td{
+    padding: 5%;
+}
+.dados{
+    width: 50%;
 }

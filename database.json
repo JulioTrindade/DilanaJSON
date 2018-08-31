@@ -7,7 +7,9 @@
             "telefone": "(84)988332732",
             "CPF": "081.736.414-55",
             "matricula": "20180049810",
-            "foto": "img/julio.jpg"
+            "foto": "img/julio.jpg",
+            "ativo": true,
+            "sala": "produção"
         },
         {
             "id": 2,
@@ -16,7 +18,9 @@
             "telefone": "(84)998983242",
             "CPF": "099.394.624-09",
             "matricula": "20180046030",
-            "foto": "img/dilana.JPEG"
+            "foto": "img/dilana.JPEG",
+            "ativo": true,
+            "sala": "produção"
         },
         {
             "id": 3,
@@ -25,7 +29,9 @@
             "telefone": "(84)996751164",
             "CPF": "096.232.684-40",
             "matricula": "20180115924",
-            "foto": "img/vinicius.JPEG"
+            "foto": "img/vinicius.JPEG",
+            "ativo": true,
+            "sala": "produção"
         },
         {
             "id": 4,
@@ -34,7 +40,9 @@
             "telefone": "(84)996375383",
             "CPF": "115.290.654-29",
             "matricula": "20182454653265",
-            "foto": "img/victoria.JPEG"
+            "foto": "img/victoria.JPEG",
+            "ativo": true,
+            "sala": "produção"
         }
     ]
 }
