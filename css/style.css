@@ -1,6 +1,6 @@
 .fotos{
-    width: 150px;
-    height: 150px;
+    width: 75%;
+    height: 75%;
 }
 tr, td{
     padding: 5%;
@@ -16,6 +16,7 @@ img{
 }
 body{
     background-image: url("img/ufrn-logo.PNG");
+    text-align: center;
 }
 table{
     border-bottom: solid 1px black; 
@@ -24,7 +25,7 @@ table{
 }
 #cabecalho, img{
     width: 40%;
-    height: 80px;
+    height: 80%;
     padding: 1.5%;
 }
 #cabecalho{
