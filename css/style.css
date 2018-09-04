@@ -11,6 +11,8 @@ tr, td{
 img{
     width: 100%;
     height: 100%;
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 10%;
 }
 body{
     background-image: url("img/ufrn-logo.PNG");
