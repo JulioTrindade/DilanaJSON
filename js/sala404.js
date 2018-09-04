@@ -16,7 +16,7 @@ $.getJSON("database.json", function(data) {
             saida += '<b>Telefone:</b> ' + bands[i].telefone + '<br>';
             saida += '<b>CPF:</b> ' + bands[i].CPF + '<br>';
             saida += '<b>Matrícula:</b> ' + bands[i].matricula + '<br>';
-            saida += '<b>Sala:</b> ' + bands[i].sala + '<br></td>';
+            saida += '<b>Projeto:</b> ' + bands[i].projeto + '<br></td>';
             saida += '</tr>';
             saida += '</table>';
         }
