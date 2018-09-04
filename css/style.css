@@ -18,5 +18,13 @@ body{
 table{
     border-bottom: solid 1px black; 
     width: 100%; text-align: left;
-    
+    margin-top: 5%;
+}
+#cabecalho, img{
+    width: 40%;
+    height: 80px;
+    padding: 1.5%;
+}
+#cabecalho{
+    display: inline-block;
 }
