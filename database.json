@@ -8,7 +8,7 @@
             "CPF": "081.736.414-55",
             "matricula": "20180049810",
             "foto": "img/julio.jpg",
-            "ativo": false,
+            "ativo": 1,
             "sala": "produção"
         },
         {
