@@ -1,5 +1,3 @@
-
-
 $.getJSON("database.json", function(data) {
   var bands = data.bands;
   var saida="";
