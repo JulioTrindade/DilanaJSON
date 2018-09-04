@@ -1,10 +1,9 @@
 .fotos{
-    width: 75%;
-    height: 75%;
+    width: 50%;
+    height: 50%;
+    margin-left: 30%;
 }
-tr, td{
-    padding: 5%;
-}
+
 .dados{
     width: 70%;
 }
@@ -15,13 +14,16 @@ img{
     border-radius: 10%;
 }
 body{
-    background-image: url("img/ufrn-logo.PNG");
+    background-image: src="img/ufrn-logo.PNG";
     text-align: center;
+    font-size: 130%;
+    font-family:'Trebuchet MS';
+    font-style: normal;
 }
 table{
     border-bottom: solid 1px black; 
-    width: 100%; text-align: left;
-    margin-top: 5%;
+    width: 100%; 
+    text-align: left;   
 }
 #cabecalho, img{
     width: 40%;
