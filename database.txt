@@ -1,0 +1,60 @@
+{
+            "id": 1,
+            "nome": "Julio Cesar Trindade de Azevedo",
+            "email": "julio.trindade92@gmail.com",
+            "telefone": "(84)988332732",
+            "CPF": "081.736.414-55",
+            "matricula": "20180049810",
+            "foto": "img/julio.jpg",
+            "ativo": 1,
+            "sala": "404",
+            "projeto":"Paineis Solares"
+        },
+        {
+            "id": 2,
+            "nome": "Dilana dos Santos Guimarães",
+            "email": "diilanasantos22@gmail.com",
+            "telefone": "(84)998983242",
+            "CPF": "099.394.624-09",
+            "matricula": "20180046030",
+            "foto": "img/dilana.JPEG",
+            "ativo": true,
+            "sala": "404",
+            "projeto":"Energias Renovaveis"
+        },
+        {
+            "id": 3,
+            "nome": "Vinicius de Almeida Silva",
+            "email": "vinicius456as@hotmail.com",
+            "telefone": "(84)996751164",
+            "CPF": "096.232.684-40",
+            "matricula": "20180115924",
+            "foto": "img/vinicius.JPEG",
+            "ativo": true,
+            "sala": "404",
+            "projeto":"Energia Fóssil"
+        },
+        {
+            "id": 4,
+            "nome": "Victoria Silva de Araújo",
+            "email": "victoria.araujo_@hotmail.com",
+            "telefone": "(84)996375383",
+            "CPF": "115.290.654-29",
+            "matricula": "20182454653265",
+            "foto": "img/victoria.JPEG",
+            "ativo": true,
+            "sala": "404",
+            "projeto":"Paineis Solares"
+        },
+        {
+            "id": 5,
+            "nome": "João Arthur da Cruz Nunes",
+            "email": "j.ac.n@hotmail.com",
+            "telefone": "(84)992187227",
+            "CPF": "086.357.154-97",
+            "matricula": "20170155971",
+            "foto": "img/padrao.PNG",
+            "ativo": true,
+            "sala": "403",
+            "projeto":"Construir meu carro"
+        }
